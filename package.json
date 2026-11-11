@@ -1,0 +1,13 @@
+{
+  "name": "eis-smart-psychological-portal",
+  "version": "2.0.0",
+  "description": "Emerald International School (EIS) Smart Timetable, Auto-Substitution & Behavioral Psychology Platform",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
